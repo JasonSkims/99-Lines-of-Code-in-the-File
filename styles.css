@@ -1,0 +1,28 @@
+body {
+    background:linear-gradient(90deg, #00539c, #1365ad);
+    font-family: Lato, sans-serif;
+    font-weight:300;
+
+}
+
+h1{
+    text-align: center;
+    color: #ffffffde;
+    font-weight: 400;
+    
+}
+
+h3 {
+    color: #ffffffde;
+    font-weight: 100;
+}
+
+p {
+    color: #ffffffde;
+}
+
+.friend {
+    background:linear-gradient(90deg, #c62168, #cf3a7b);
+    box-shadow: 10px 10px 28px 0px rgba(0,0,0,0.5);
+    border-radius: 9px;
+}
